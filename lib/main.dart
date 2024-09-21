@@ -115,7 +115,7 @@ class _LoginDemoState extends State<LoginDemo> {
                   child:
                   TextButton(
                     onPressed: (){
-                      //FORGOT PASSWORD SCREEN GOES HERE
+                      //TODO FORGOT PASSWORD SCREEN GOES HERE
                     },
                     child: Text(
                       'Forgot Password?',
